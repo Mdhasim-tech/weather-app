@@ -1,0 +1,27 @@
+.cont1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.cont1 .card {
+    margin: 20px 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Optionally, you can also center the background image */
+   
+}
